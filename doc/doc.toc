@@ -1,0 +1,13 @@
+\select@language {italian}
+\contentsline {section}{\numberline {1}Introduzione}{1}
+\contentsline {subsection}{\numberline {1.1}Descrizione Fisica}{1}
+\contentsline {section}{\numberline {2}Simulazione}{1}
+\contentsline {subsection}{\numberline {2.1}Calcolo di $\tau $}{4}
+\contentsline {subsection}{\numberline {2.2}Calcolo di $V_t$}{5}
+\contentsline {section}{\numberline {3}Realizzazione Grafica}{6}
+\contentsline {section}{\numberline {4}Appendice: Codice sorgente}{7}
+\contentsline {subsection}{\numberline {4.1}Program.cs}{7}
+\contentsline {subsection}{\numberline {4.2}MainForm.cs}{7}
+\contentsline {subsection}{\numberline {4.3}MainForm.Designer.cs}{16}
+\contentsline {subsection}{\numberline {4.4}SoglieView.cs}{25}
+\contentsline {subsection}{\numberline {4.5}SoglieView.Designer.cs}{26}
